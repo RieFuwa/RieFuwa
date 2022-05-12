@@ -13,10 +13,6 @@
 <a href="mailto:bedirhankabatas1@gmail.com" target="_blank" rel="nofollow"><img alt="Bedirhan's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.instagram.com/bedirhankbts/?hl=en" target="_blank" rel="nofollow"><img alt="Bedirhan's Mail Address" src="https://img.shields.io/badge/instagram-C44143?style=for-the-badge&logo=instagram&logoColor=white%22" /></a>
          
-### My Play Store apps
-      
- <a href="https://play.google.com/store/apps/dev?id=6066419099945322037" target="_blank" rel="nofollow"><img alt="Bedirhan's Play Store Address" src="https://img.shields.io/badge/playstore-20232A?style=for-the-badge&logo=google&logoColor=white%22" /></a>
-                    </div>
 ## 🛠 Technologies & Tools
 
 <div>
