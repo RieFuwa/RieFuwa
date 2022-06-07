@@ -1,7 +1,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/RieFuwa?style=social)](https://github.com/RieFuwa?tab=followers)
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=RieFuwa.visitor-badge)](https://GitHub.com/RieFuwa/StrapDown.js/stargazers/)
 
-# Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
 
 <p>
           Hi, I'm Bedirhan. I'm a software engineer.
