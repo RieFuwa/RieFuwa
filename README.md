@@ -11,7 +11,7 @@
 
 <a href="https://www.linkedin.com/in/bkabatas/" target="_blank" rel="nofollow"><img alt="Bedirhan's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:bedirhankabatas1@gmail.com" target="_blank" rel="nofollow"><img alt="Bedirhan's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.instagram.com/bedirhankbts/?hl=en" target="_blank" rel="nofollow"><img alt="Bedirhan's Mail Address" src="https://img.shields.io/badge/instagram-C44143?style=for-the-badge&logo=instagram&logoColor=white%22" /></a>
+<a href="https://www.instagram.com/bedirhankbts/?hl=en" target="_blank" rel="nofollow"><img alt="Bedirhan's Mail Address" src="https://img.shields.io/badge/instagram-C44143?style=for-the-badge&logo=instagram&logoColor=white" /></a>
          
 ## 🛠 Technologies & Tools
 
