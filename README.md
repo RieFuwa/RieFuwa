@@ -5,7 +5,9 @@
 
 <p>
           Hi, I'm Bedirhan. 
+          <br/>
           I'm a software engineer.
+          <br/>
           I'm learning Java, Spring
           <br />
 
