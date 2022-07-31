@@ -4,7 +4,9 @@
 # Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 
 <p>
-          Hi, I'm Bedirhan. I'm a software engineer.
+          Hi, I'm Bedirhan. 
+          I'm a software engineer.
+          I'm learning Java, Spring
           <br />
 
 ### Contact with me via these platforms!
