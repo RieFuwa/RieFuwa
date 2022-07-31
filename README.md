@@ -8,7 +8,7 @@
           <br/>
           I'm a software engineer.
           <br/>
-          I'm learning Java, Spring
+          I'm learning Java, Spring.
           <br />
 
 ### Contact with me via these platforms!
