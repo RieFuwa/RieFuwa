@@ -9,6 +9,7 @@
           I'm a software engineer.
           <br/>
           I'm learning Java, Spring.
+          <br/>
           Personel Website: https://bedirhankabatass.netlify.app/
           <br />
 
