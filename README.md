@@ -10,7 +10,7 @@
           <br/>
           I'm learning Java, Spring.
           <br />
-Personel Website: https://bedirhankabatass.netlify.app/
+## Personel Website: https://bedirhankabatass.netlify.app/
 ### Contact with me via these platforms!
 
 <a href="https://www.linkedin.com/in/bkabatas/" target="_blank" rel="nofollow"><img alt="Bedirhan's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
