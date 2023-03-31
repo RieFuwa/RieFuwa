@@ -8,7 +8,7 @@
           <br/>
           I'm a software engineer.
           <br/>
-          I'm learning Java, Spring and Reactjs.
+          I'm learning Java, Spring Boot and Reactjs.
           <br/>
            <br/>
           Personel Website: https://bedirhankabatass.netlify.app/
