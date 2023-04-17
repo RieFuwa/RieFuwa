@@ -35,7 +35,7 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="Android" src="https://img.shields.io/badge/Android-20232A?style=for-the-badge&logo=android&logoColor=61DAFB"/>
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img>
-<img alt="Postgre" src="https://img.shields.io/badge/Postgre-0078D6?style=for-the-badge&logo=windows&logoColor=white"></img>
+<img alt="Postgre" src="https://img.shields.io/badge/Postgre-0078D6?style=for-the-badge&logo=postgre&logoColor=white"></img>
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img>
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img>
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img>
