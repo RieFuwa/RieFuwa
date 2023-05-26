@@ -6,7 +6,7 @@
 <p>
           Hi, I'm Bedirhan Kabataş. 
           <br/>
-          I'm a software engineer.
+          I'm Software Engineering student.
           <br/>
           I'm learning Java, Spring Boot and Reactjs.
           <br/>
