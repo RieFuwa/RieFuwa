@@ -6,9 +6,9 @@
 <p>
           Hi, I'm Bedirhan Kabataş. 
           <br/>
-          I'm Software Engineering student.
+          I am a software engineer
           <br/>
-          I'm learning Java, Spring Boot and Reactjs.
+          I specialize in Java Spring Boot and Reactjs.
           <br/>
            <br/>
           Personel Website: https://bedirhankabatass.netlify.app/
